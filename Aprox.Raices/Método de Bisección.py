@@ -52,6 +52,6 @@ def biseccion(a, b, tol):#creamos las variables
     
     plt.show()
 
-biseccion(0.1,3, 0.0001)
-#Valor de A , Valor de B, Tolerancia normal
 #Procura no anadir ceros 
+biseccion(0.1,3, 0.0001)
+#Valor de A , Valor de B, Tolerancia NORMAL SIN % DIVIDE EL % ENTRE 100
