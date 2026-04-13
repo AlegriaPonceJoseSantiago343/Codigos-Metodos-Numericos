@@ -1,7 +1,9 @@
 ## EXPERIENCIA EDUCATIVA: Metodos Numericos
 ## **Universidad Veracruzana**
-En este repositorio estare subiendo todos los codigos de metodos numericos, clasificandose en:
+En este repositorio estare subiendo todos los codigos de metodos numericos, clasificandose en
+
 **Docente:** Hernandez Oliva Silvia
+
 **Alumno:** Alegria Ponce Jose Santiago
 
 ### Aproximación de raíces
