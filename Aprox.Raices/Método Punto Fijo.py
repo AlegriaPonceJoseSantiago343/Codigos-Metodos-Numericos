@@ -31,7 +31,7 @@ while Ea>tol and i<max_iter:
     print("Error aproximado:",Ea,"%")
     x0=x1
     i+=1
-    
+    #hola
 plt.figure(figsize=(10,6))
 plt.plot(lista_iteraciones,lista_errores,marker='o',linestyle='-',color='b',label='Error Aproximado')
 
